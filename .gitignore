@@ -7,11 +7,5 @@
 # libraries
 *.so
 
-# auto-generated enclave files
-Enclave_t.h
-Enclave_t.c
-Enclave_u.h
-Enclave_u.c
-
 # binaries
 app
