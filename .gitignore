@@ -1,6 +1,3 @@
-# rsa private key
-*.pem
-
 # objects
 *.o
 
