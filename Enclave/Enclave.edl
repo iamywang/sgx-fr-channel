@@ -1,0 +1,10 @@
+enclave {
+    trusted {
+        /* define ECALLs here. */
+        public void ecall_leak_byte([user_check]char* shared_array,int i);
+    };
+
+    untrusted {
+        /* define OCALLs here. */
+    };
+};
